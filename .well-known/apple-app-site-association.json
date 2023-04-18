@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+      {
+        "appID": "K4UBC4HX7B.com.eiger.atomApp.staging",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
