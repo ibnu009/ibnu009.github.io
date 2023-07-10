@@ -1,9 +1,19 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { 
-    "namespace": "android_app", 
-    "package_name": "com.eiger.atom_app",
-    "sha256_cert_fingerprints": 
-    ["3B:E9:77:1F:61:E6:15:38:30:F6:87:FC:A5:2F:13:B6:65:4C:35:E5:DC:BB:B4:BF:7C:DA:FA:77:9B:08:2F:0B"] 
-  }
-}]
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : {
+        "namespace": "android_app",
+        "package_name": "com.eiger.atom_app",
+        "sha256_cert_fingerprints":
+        ["3B:E9:77:1F:61:E6:15:38:30:F6:87:FC:A5:2F:13:B6:65:4C:35:E5:DC:BB:B4:BF:7C:DA:FA:77:9B:08:2F:0B"]
+    }
+},
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.eiger.atom_app.staging",
+        "sha256_cert_fingerprints":
+        ["3B:E9:77:1F:61:E6:15:38:30:F6:87:FC:A5:2F:13:B6:65:4C:35:E5:DC:BB:B4:BF:7C:DA:FA:77:9B:08:2F:0B"]
+      }
+    }
+]
