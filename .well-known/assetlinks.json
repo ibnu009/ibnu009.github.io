@@ -4,7 +4,7 @@
       "namespace": "android_app",
       "package_name": "com.eiger.eigeradventureapp",
       "sha256_cert_fingerprints":
-        ["DA:CA:E8:69:F2:AB:3A:6F:65:62:72:CD:ED:83:62:8D:E4:39:C8:20:CE:86:E7:FB:AE:E6:01:31:DD:2F:BD:24"]
+        ["74:71:46:9C:61:E1:F0:AC:73:77:3B:21:BB:BB:33:CC:97:58:46:65:28:A6:44:5C:B4:E6:89:1C:38:11:21:10"]
     }
 },
 {
@@ -13,7 +13,7 @@
       "namespace": "android_app",
       "package_name": "com.eiger.eigeradventureapp.staging",
       "sha256_cert_fingerprints":
-        ["DA:CA:E8:69:F2:AB:3A:6F:65:62:72:CD:ED:83:62:8D:E4:39:C8:20:CE:86:E7:FB:AE:E6:01:31:DD:2F:BD:24"]
+        ["74:71:46:9C:61:E1:F0:AC:73:77:3B:21:BB:BB:33:CC:97:58:46:65:28:A6:44:5C:B4:E6:89:1C:38:11:21:10"]
     }
   }
 ]
