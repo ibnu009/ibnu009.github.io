@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.eiger.atom_app",
+      "package_name": "com.eiger.eigeradventureapp",
       "sha256_cert_fingerprints":
         ["74:71:46:9C:61:E1:F0:AC:73:77:3B:21:BB:BB:33:CC:97:58:46:65:28:A6:44:5C:B4:E6:89:1C:38:11:21:10"]
     }
