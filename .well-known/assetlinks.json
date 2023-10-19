@@ -24,5 +24,14 @@
       "sha256_cert_fingerprints":
         ["DA:CA:E8:69:F2:AB:3A:6F:65:62:72:CD:ED:83:62:8D:E4:39:C8:20:CE:86:E7:FB:AE:E6:01:31:DD:2F:BD:24"]
     }
-  }   
+  },   
+{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.eiger.eigeradventureapp.staging",
+      "sha256_cert_fingerprints":
+        ["3B:E9:77:1F:61:E6:15:38:30:F6:87:FC:A5:2F:13:B6:65:4C:35:E5:DC:BB:B4:BF:7C:DA:FA:77:9B:08:2F:0B"]
+    }
+  }
 ]
