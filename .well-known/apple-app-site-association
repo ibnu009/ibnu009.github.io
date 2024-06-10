@@ -5,21 +5,24 @@
         "appID": "K4UBC4HX7B.com.eiger.eigerAdventureApp.staging",
         "paths": [
             "/reset-password",
-            "/d/*"
+            "/d/*",
+            "/*",
         ]
       },
       {
         "appID": "6X3ZZWK434.com.eiger.eigerAdventureApp",
         "paths": [
             "/reset-password",
-            "/d/*"
+            "/d/*",
+            "/*",
         ]
       },
       {
         "appID": "K4UBC4HX7B.com.eiger.atomApp.staging",
         "paths": [
             "/reset-password",
-            "/d/*"
+            "/d/*",
+            "/*",
         ]
       }
     ]
