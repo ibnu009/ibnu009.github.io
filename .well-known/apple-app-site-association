@@ -1,10 +1,19 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
-      { "appID": "K4UBC4HX7B.com.ntu.app.uat", "paths": ["*"] },
-      { "appID": "K4UBC4HX7B.com.ntu.app.staging", "paths": ["*"] },
-      { "appID": "K4UBC4HX7B.com.ntu.app", "paths": ["*"] }
+      {
+        "appIDs": [
+          "K4UBC4HX7B.com.ntu.app.uat",
+          "K4UBC4HX7B.com.ntu.app.staging",
+          "K4UBC4HX7B.com.ntu.app"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Include all paths in app"
+          }
+        ]
+      }
     ]
   },
   "webcredentials": {
